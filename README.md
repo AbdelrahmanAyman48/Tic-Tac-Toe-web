@@ -1,7 +1,7 @@
 ## Tic-Tac-Toe Challenge
 
 Welcome to the Tic-Tac-Toe Challenge! A classic game with a twist - can you outsmart the computer and emerge victorious?/
-## [Live Link](https://main--mansy-x-o-game.netlify.app/)
+
 
 <p align="center">
   <img width="300" src="images/tic-tac-toe-svgrepo-com.svg" alt="Tic-Tac-Toe Preview">
@@ -35,12 +35,15 @@ Welcome to the Tic-Tac-Toe Challenge! A classic game with a twist - can you outs
 3. Start playing Tic-Tac-Toe and enjoy the challenge!
 
 ## Credits
-- Game logic and styling: [Mahmoud Mansy](https://github.com/MMansy19)
+- Game logic and styling: Mahmoud Mansy
 - Inspired by classic games and AI challenges.
 
 ## Contact
 Feel free to reach out to me any time. I prefer to talk over email, especially since we may be in different time zones.
 
-- Email: [mahmoud2abdalfattah@gmail.com](mailto:mahmoud2abdalfattah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-mansy-a189a5232/)
+
+- [Author](https://github.com/AbdelrahmanAyman48/)
+- [Website](https://vercel.com/abs-projects-a0d3e74b)
+- [Email](mailto:Abdelrmanayman48@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/abdelrahman-ayman-290674252/)
 
